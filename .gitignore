@@ -1,0 +1,11 @@
+# Do not upload unused/draft/old files
+other_experiments/
+
+# Do not upload dataset folder
+data/
+
+# Python/Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
